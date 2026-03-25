@@ -1,0 +1,5 @@
+{
+  "name": "PetSnuggle",
+  "description": "A warm and social community for pets and their owners to connect, explore, and share moments.",
+  "requestFramePermissions": ["geolocation"]
+}
